@@ -2,7 +2,7 @@ import requests
 from art import *
 from datetime import datetime
 
-token = '70ee07a870ee07a870ee07a86f73fed51a770ee70ee07a813c1c45261f1d0db582462ab'
+token = ''
 version = 5.131
 art = text2art('SocialScript', 'big')
 print(art)
